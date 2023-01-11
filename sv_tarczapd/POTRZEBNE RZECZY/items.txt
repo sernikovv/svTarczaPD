@@ -1,0 +1,7 @@
+	['tarcza'] = {
+		label = 'Tarcza',
+		weight = 8000,
+		client = {
+			event = 'tarcza:useitem'
+		},
+	},
